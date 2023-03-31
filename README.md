@@ -1,5 +1,5 @@
 # DS_Project_1_2021_2
-2021-2 데이터구조설계 과목에서 진행한 1차 프로젝트
+2021학년도 2학기 데이터구조설계 과목에서 진행한 1차 프로젝트
 
 how to compile this project
 $ make
